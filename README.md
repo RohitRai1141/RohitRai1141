@@ -1,98 +1,168 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="80%" alt="Coding Animation">
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Header"/>
+</div>
 
-# Hi, I'm Rohit Rai 👋  
+# Hi there, I'm Rohit Rai 👋
 
-🎓 **3rd Year Computer Science Student @ Loyola-ICAM College of Engineering & Technology**  
-💻 **Full Stack Developer | AI & IoT Enthusiast | Hackathon Explorer**  
-🌱 Exploring **Next.js, Cloud Computing, and Cybersecurity (CTFs)**  
-⚡ Goal: Grow as an **SDE-1 / Full Stack Developer**  
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+IoT+Enthusiast;Hackathon+Explorer;Problem+Solver)](https://git.io/typing-svg)
+  
+</div>
 
----
-
-## 🚀 Skills  
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)  
-
-**Web & Frameworks:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
-
-**Databases & Tools:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/Postgres-316192?style=flat&logo=postgresql&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)  
+🎓 **3rd Year CSE Student** @ Loyola-ICAM College of Engineering & Technology  
+💻 **Full Stack Developer** | Building scalable web applications & AI solutions  
+🌱 Currently exploring **Next.js, Cloud Computing & Cybersecurity (CTFs)**  
+🎯 Goal: Grow as an **SDE-1 / Full Stack Developer**  
+⚡ Solved **650+ DSA problems** across competitive platforms
 
 ---
 
-## 💼 Internships  
-**DP World – Chennai Container Terminal Limited (CCTL)** *(Jun 2025 – Aug 2025)*  
-- Built **AI Support Assistant** with chatbot & role-based auth  
-- Developed **Smart Canteen System** (RFID login + inventory tracking)  
-- Created **Vendor Evaluation System** with dashboards & recommendations  
-*Tech Stack: React, Angular, Python, Node.js, PHP, SQL Server, Power BI, Grafana*  
+## 🛠️ Tech Stack
 
-**Infosys Springboard – Angular Full Stack Developer Intern** *(Dec 2024 – Feb 2025)*  
-- Built **full-stack booking platform** (cab, tour, flight, hotel)  
-- Acted as **Scrum Master & Product Owner** leading a 5-person team  
-*Tech Stack: Angular, TypeScript, Next.js, Node.js, JSON Server*  
+**Languages**
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-## 🌟 Projects  
-- **CampusVault** – Role-based academic library with Supabase Auth & real-time management  
-- **Classroom Booking System** – Real-time scheduling system (95% accuracy, email alerts)  
-- **Smart AC Automation** – IoT + AI solution to optimize energy usage  
-- **Voice-Controlled Game** – 90% voice accuracy with Web Speech API  
-- **Traffic Accident Predictor** – Predictive analysis with React & TypeScript  
+**Frontend Development**
 
----
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 🏆 Hackathons  
-- **Innovator’s Arena 2K25** – Shortlisted, pitched project @ LICET  
-- **HackathonX – IIT Madras (Cybersecurity)**  
-- **K! Hacks 2024** – South India’s largest student hackathon  
-- **Shell NXplorers Pro 2023 Innovation Challenge**  
+**Backend Development**
 
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohitRai1141&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitRai1141&theme=radical" height="160" />
-</p>
+**Databases & Cloud**
 
----
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-## 🎉 Fun Side  
-⚡ Solved **650+ DSA problems**  
-⚡ IoT + AI gadget builder  
-⚡ Hackathon junkie + CTF explorer 🎮  
+**DevOps & Tools**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Fun Coding">
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-rai-1b2574267/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/RohitRai1141)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Rai22csb18)  
+## 💼 Professional Experience
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="180" alt="Thanks">
-</p>
+### 👨‍💻 DP World – Chennai Container Terminal Limited (CCTL)
+**IT Intern – Full Stack AI Developer** | *Jun 2025 – Aug 2025*
+
+- 🤖 Built **AI Support Assistant** with intelligent chatbot, role-based authentication, and admin dashboard
+- 🍽️ Developed **Smart Canteen System** featuring RFID login, dynamic menu management, and inventory tracking
+- 📊 Created **Vendor Evaluation System** with weighted scoring algorithms, interactive dashboards, and automated recommendations
+- **Tech Stack:** React, Angular, Python, Node.js, PHP, SQL Server, Power BI, Grafana
+
+### 👨‍💻 Infosys Springboard
+**Angular Full Stack Developer Intern** | *Dec 2024 – Feb 2025*
+
+- ✈️ Developed comprehensive full-stack booking platform (cab, tour, flight, hotel services)
+- 👥 Served dual role as **Scrum Master & Product Owner**, leading a 5-person development team
+- 📋 Managed sprint planning, requirements gathering, and seamless service integration
+- **Tech Stack:** Angular, TypeScript, Next.js, Node.js, Bootstrap, JSON Server
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 [CampusVault](https://github.com/RohitRai1141)
+Role-based academic library platform with secure file management
+- Implemented Supabase Auth with Row Level Security (RLS)
+- Built responsive UI with Tailwind CSS and shadcn/ui components
+- Real-time file upload, categorization, and management system
+- **Stack:** Next.js 13, Supabase, TypeScript, Tailwind CSS
+
+### 📅 [Classroom Booking System](https://github.com/RohitRai1141)
+Real-time reservation system with 95% scheduling accuracy
+- Role-based access control for faculty and students
+- Email notifications for booking confirmations and reminders
+- **Stack:** React, Firebase, JavaScript, HTML, CSS
+
+### 🎮 [Voice-Controlled Game](https://github.com/RohitRai1141)
+Browser-based game with 90% voice recognition accuracy
+- Integrated Web Speech API for hands-free controls
+- **Stack:** React.js, JavaScript, Web Speech API
+
+### 💡 [Smart AC Automation](https://github.com/RohitRai1141)
+IoT + AI solution for intelligent energy management
+- ESP8266-based automation with AI detection
+- **Stack:** Python, ESP8266, IoT Sensors
+
+### 🚗 [Traffic Accident Predictor](https://github.com/RohitRai1141)
+Predictive analytics system for traffic safety
+- **Stack:** React, TypeScript, Machine Learning
+
+---
+
+## 🏆 Hackathons & Achievements
+
+- 🥈 **Shortlisted** – Innovator's Arena 2K25, LICET (Apr 2025)
+- 🔐 **Participated** – HackathonX @ IIT Madras - Cyber Security (Aug 2024)
+- 💻 **Competed** – K! Hacks 2024 - South India's Largest Student Hackathon
+- 🌍 **Contributor** – Shell NXplorers Pro 2023 Innovation Challenge
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RohitRai1141&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitRai1141&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitRai1141&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
+
+---
+
+## 🎯 Coding Profiles
+
+<div align="center">
+  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rohitraicsb)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RohitRai1141)
+
+**650+ Problems Solved** across competitive coding platforms
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-rai-1b2574267/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RohitRai1141)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rai22csb18)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitrai.26csb@licet.ac.in)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+  
+  ### 💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=RohitRai1141&color=blueviolet&style=for-the-badge)
+  
+</div>
