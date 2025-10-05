@@ -1,6 +1,6 @@
-<img width="735" height="490" alt="image" src="https://github.com/user-attachments/assets/ce9e32c1-3325-49ed-ad98-73c9f77f0b9c" /><img width="735" height="490" alt="image" src="https://github.com/user-attachments/assets/ec81034c-34fb-4843-8883-188070ad5dec" /><div align="center">
+
   <img src="https://i.pinimg.com/736x/35/d1/ab/35d1ab8357f81be416c6aef560e809b7.jpg" width="100%" alt="Header"/>
-</div>
+
 
 # Hi there, I'm Rohit Rai 👋
 
