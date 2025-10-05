@@ -10,7 +10,7 @@
   
 </div>
 
-🎓 **3rd Year CSE Student** @ Loyola-ICAM College of Engineering & Technology  
+🎓 **4rd Year CSE Student** @ Loyola-ICAM College of Engineering & Technology  
 💻 **Full Stack Developer** | Building scalable web applications & AI solutions  
 🌱 Currently exploring **Next.js, Cloud Computing & Cybersecurity (CTFs)**  
 🎯 Goal: Grow as an **SDE-1 / Full Stack Developer**  
