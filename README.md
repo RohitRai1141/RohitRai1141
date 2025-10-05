@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Header"/>
+  <img src="[https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://videos.openai.com/vg-assets/assets%2Ftask_01k6tdkg87ehr9rzf7kb3fqyag%2F1759675927_img_1.webp?st=2025-10-05T13%3A22%3A18Z&se=2025-10-11T14%3A22%3A18Z&sks=b&skt=2025-10-05T13%3A22%3A18Z&ske=2025-10-11T14%3A22%3A18Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=cfbc986b-d2bc-4088-8b71-4f962129715b&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=m5W51Xquwc98AmU3YKsvJSGPSoH5UbQuCDsRuR7wFOE%3D&az=oaivgprodscus)" width="100%" alt="Header"/>
 </div>
 
 # Hi there, I'm Rohit Rai 👋
