@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://videos.openai.com/vg-assets/assets%2Ftask_01k6tdkg87ehr9rzf7kb3fqyag%2F1759675927_img_1.webp?st=2025-10-05T13%3A22%3A18Z&se=2025-10-11T14%3A22%3A18Z&sks=b&skt=2025-10-05T13%3A22%3A18Z&ske=2025-10-11T14%3A22%3A18Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=cfbc986b-d2bc-4088-8b71-4f962129715b&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=m5W51Xquwc98AmU3YKsvJSGPSoH5UbQuCDsRuR7wFOE%3D&az=oaivgprodscus)](https://videos.openai.com/vg-assets/assets%2Ftask_01k6tdkg87ehr9rzf7kb3fqyag%2F1759675927_img_1.webp?st=2025-10-05T13%3A22%3A18Z&se=2025-10-11T14%3A22%3A18Z&sks=b&skt=2025-10-05T13%3A22%3A18Z&ske=2025-10-11T14%3A22%3A18Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=cfbc986b-d2bc-4088-8b71-4f962129715b&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=m5W51Xquwc98AmU3YKsvJSGPSoH5UbQuCDsRuR7wFOE%3D&az=oaivgprodscus" width="100%" alt="Header"/>
+<img width="735" height="490" alt="image" src="https://github.com/user-attachments/assets/ce9e32c1-3325-49ed-ad98-73c9f77f0b9c" /><img width="735" height="490" alt="image" src="https://github.com/user-attachments/assets/ec81034c-34fb-4843-8883-188070ad5dec" /><div align="center">
+  <img src="https://i.pinimg.com/736x/35/d1/ab/35d1ab8357f81be416c6aef560e809b7.jpg" width="100%" alt="Header"/>
 </div>
 
 # Hi there, I'm Rohit Rai 👋
