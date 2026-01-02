@@ -119,15 +119,9 @@ Predictive analytics system for traffic safety
 
 ---
 ## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohitRai1141&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitRai1141&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitRai1141&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohitRai1141&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RohitRai1141&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitRai1141&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
