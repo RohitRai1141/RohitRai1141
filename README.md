@@ -118,7 +118,6 @@ Predictive analytics system for traffic safety
 - 🌍 **Contributor** – Shell NXplorers Pro 2023 Innovation Challenge
 
 ---
-
 ## 📊 GitHub Statistics
 
 <div align="center">
